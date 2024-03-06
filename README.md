@@ -4,7 +4,9 @@ Setup
 
 2. Run following to clean build directory:
 
+'''
 	make clean
+'''
 
 5. Run following to build executable after cleaning:
 
