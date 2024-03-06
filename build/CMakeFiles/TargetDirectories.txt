@@ -1,0 +1,8 @@
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/CMakeFiles/edit_cache.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/CMakeFiles/rebuild_cache.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/src/CMakeFiles/Library.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/src/CMakeFiles/edit_cache.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/src/CMakeFiles/rebuild_cache.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/app/CMakeFiles/main.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/app/CMakeFiles/edit_cache.dir
+/Users/gmontenegro/Desktop/programs/CPP/ChatGPTTexter/build/app/CMakeFiles/rebuild_cache.dir
