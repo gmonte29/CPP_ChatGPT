@@ -1,6 +1,6 @@
 Setup
 
-1. Add ChatGPT API Key to src/info.cxx
+1. Add ChatGPT API Key to src/chatgpt_key.cxx
 
 2. Run following to clean build directory:
 
