@@ -4,15 +4,15 @@ Setup
 
 2. Run following to clean build directory:
 
-    make clean
+	make clean
 
 3. Run following to build executable after cleaning:
 
-    cd build
-    cmake ..
-    cmake --build .
+	cd build
+	cmake ..
+	cmake --build .
 
 4. While in build directory run following to execute ChatGPT API Request:
 
-    ./app/main
+	./app/main
     
